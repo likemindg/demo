@@ -10,5 +10,4 @@ class BoApplicationTests {
 	void contextLoads() {
 	}
 
-	// test22
 }
