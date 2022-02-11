@@ -11,5 +11,4 @@ public class Movie implements Serializable {
 	private String title;
 	private String link;
 	private float userRating;
-
 }
